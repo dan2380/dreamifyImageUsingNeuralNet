@@ -15,6 +15,11 @@ it does so by forwarding an image through the network, then calculating the grad
 
 # Pre-requisite downloads
 
+If you don't already have tensorflow type the command into your terminal to install tensorflow: <br>
+'''
+pip install tensorflow
+'''
+
 # How to run
 
 1. Download required packages <br>
