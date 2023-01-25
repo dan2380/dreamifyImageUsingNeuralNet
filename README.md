@@ -15,14 +15,21 @@ it does so by forwarding an image through the network, then calculating the grad
 
 # Pre-requisite downloads
 
-If you don't already have tensorflow type the command into your terminal to install tensorflow: <br>
+install if you don't already have the required libraries
 
 ```
 pip install tensorflow
+pip install matplotlib
+pip install ipython
 ```
 
 # How to run
 
 1. Download required packages <br>
-2. set path to the photos (can be located locally or via https link)
-3. run program and dreamify photo
+2. Open dreamify.ipynb
+3. set path to the photos (can be located locally or via https link)
+4. Run cell from top to bottom and watch your photo become dreamified!
+
+# Next Steps
+
+Will work on a GUI for this project so its easier to use
