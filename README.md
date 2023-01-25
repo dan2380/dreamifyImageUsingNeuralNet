@@ -12,3 +12,11 @@ it does so by forwarding an image through the network, then calculating the grad
 ![1st level of dreamified pug](assets/photos/dreampug1.png)
 ![2nd level of dreamified pug](assets/photos/dreampug2.png)
 ![3rd level of dreamified pug](assets/photos/dreampug3.png)
+
+# Pre-requisite downloads
+
+# How to run
+
+1. Download required packages <br>
+2. set path to the photos (can be located locally or via https link)
+3. run program and dreamify photo
